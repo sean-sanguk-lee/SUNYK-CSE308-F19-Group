@@ -1,0 +1,10 @@
+Burger: https://i.imgur.com/3rOYD9j.png
+Cake: https://i.imgur.com/ekwGc7G.png
+Chocolate: https://i.imgur.com/m2B2Bfn.png
+Cookie: https://i.imgur.com/4t2Tg26.png
+Donut: https://i.imgur.com/Tg74VUa.png
+Fries: https://i.imgur.com/LKS3oty.png
+Meat: https://i.imgur.com/oFsLm3y.png
+Pizza: https://i.imgur.com/SQBSKKd.png
+Sushi: https://i.imgur.com/6WCXyUg.png
+Taco: https://i.imgur.com/O6aIiiq.png
